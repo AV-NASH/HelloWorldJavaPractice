@@ -24,5 +24,17 @@ public class Hellojava {
 
 
 	}
+	
+	private static void sub(int num1,int num2) {
+		long diff=num1+num2;
+		System.out.println(diff);
+
+
+
+		System.out.println("diff done thanks");
+
+
+
+	}
 }
 
