@@ -17,7 +17,7 @@ public class Hellojava {
 		long sum=num1+num2;
 		System.out.println(sum);
 
-		System.out.println("why thank you so much");
+		System.out.println("hello thank you so much");
 
 
 	}
