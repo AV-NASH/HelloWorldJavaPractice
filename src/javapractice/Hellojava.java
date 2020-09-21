@@ -19,7 +19,7 @@ public class Hellojava {
 
 
 
-		System.out.println("addition done thank you so much");
+		System.out.println("addition done thanks");
 
 
 
